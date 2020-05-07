@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200 64-bit) (preloaded format=xelatex 2019.11.26)  10 DEC 2019 09:50
+This is XeTeX, Version 3.14159265-2.6-0.999991 (MiKTeX 2.9.7200 64-bit) (preloaded format=xelatex 2019.11.26)  7 MAY 2020 12:46
 entering extended mode
 **./resume_cv.tex
 (resume_cv.tex
@@ -1245,7 +1245,7 @@ t line 19.
 LaTeX Font Info:    Font shape `TU/SourceSansPro(2)/m/it' will be
 (Font)              scaled to size 8.0pt on input line 19.
 ) (cv-sections/skills.tex
-Overfull \hbox (56.68246pt too wide) in alignment at lines 11--28
+Overfull \hbox (56.68246pt too wide) in alignment at lines 11--34
 [] [] 
  []
 
@@ -1263,7 +1263,7 @@ Package rerunfilecheck Info: File `resume_cv.out' has not changed.
 Here is how much of TeX's memory you used:
  41154 strings out of 427243
  799879 string characters out of 3141308
- 1036763 words of memory out of 3000000
+ 1038763 words of memory out of 3000000
  45146 multiletter control sequences out of 15000+200000
  534885 words of font info for 89 fonts, out of 3000000 for 9000
  1348 hyphenation exceptions out of 8191
